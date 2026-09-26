@@ -1,43 +1,41 @@
 name: Update GitHub Stats
 
 on:
-schedule:
-- cron: "0 3 * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-build:
-runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v6
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
 
-  - name: Generate GitHub Stats
-    uses: stats-organization/github-readme-stats-action@v2
-    with:
-      card: stats
-      options: username=teles-hub&show_icons=true&include_all_commits=true&theme=github_dark&title_color=4DA6FF&icon_color=4DA6FF&text_color=C9D1D9&bg_color=05070D&hide_border=true
-      path: profile/stats.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=teles-hub&show_icons=true&include_all_commits=true&theme=github_dark&title_color=4DA6FF&icon_color=4DA6FF&text_color=C9D1D9&bg_color=05070D&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-  - name: Generate Top Languages
-    uses: stats-organization/github-readme-stats-action@v2
-    with:
-      card: top-langs
-      options: username=teles-hub&layout=compact&langs_count=8&theme=github_dark&title_color=4DA6FF&text_color=C9D1D9&bg_color=05070D&hide_border=true
-      path: profile/top-langs.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=teles-hub&layout=compact&langs_count=8&theme=github_dark&title_color=4DA6FF&text_color=C9D1D9&bg_color=05070D&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-  - name: Commit generated cards
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      git add profile/*.svg
-      git diff --cached --quiet || git commit -m "Update GitHub stats"
-      git push
-```
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "Update GitHub stats"
+          git push
