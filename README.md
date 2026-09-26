@@ -46,11 +46,11 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
 <div align="center">
 
 <a href="https://github.com/teles-hub/Algoritmos-e-Programa-o">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Algoritmos-e-Programa-o&theme=github_dark&hide_border=true" />
+<img src="./profile/projeto-algoritmos.svg" height="180" alt="Algoritmos e Programação"/>
 </a>
 
 <a href="https://github.com/teles-hub/Aprendendo-em-casa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Aprendendo-em-casa&theme=github_dark&hide_border=true" />
+<img src="./profile/projeto-aprendendo.svg" height="180" alt="Aprendendo em casa"/>
 </a>
 
 </div>
@@ -83,7 +83,7 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=teles-hub&bg_color=05070D&color=4DA6FF&line=4DA6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=teles-hub&bg_color=05070D&color=4DA6FF&line=4DA6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity"/>
 
 </div>
 
@@ -93,7 +93,7 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=teles-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+<img src="./profile/trophies.svg" alt="GitHub Trophies"/>
 
 </div>
 
