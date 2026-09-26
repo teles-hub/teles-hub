@@ -101,10 +101,11 @@ Projetos de desenvolvimento, banco de dados e outros experimentos relacionados Ã
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=teles-hub&theme=dark&hide_border=true&background=05070D&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF&sideLabels=C9D1D9&dates=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api?username=teles-hub&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teles-hub&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 
 </div>
-
 ---
 
 # ğŸ“ˆ Activity
@@ -114,7 +115,6 @@ Projetos de desenvolvimento, banco de dados e outros experimentos relacionados Ã
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=teles-hub&bg_color=05070D&color=C9D1D9&line=4DA6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
-
 ---
 
 # ğŸ† GitHub Trophies
@@ -124,7 +124,6 @@ Projetos de desenvolvimento, banco de dados e outros experimentos relacionados Ã
 <img src="https://github-profile-trophy.vercel.app/?username=teles-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
-
 ---
 
 # ğŸ Contribution Snake
