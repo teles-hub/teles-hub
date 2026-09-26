@@ -1,24 +1,23 @@
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0B1B33,100:123A63&height=220&section=header&text=Cau%C3%AA%20Teles&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20TI%20%7C%20Hardware&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Interessado+em+est%C3%A1gio+na+%C3%A1rea+de+TI;Python+%7C+Java+%7C+SQL+%7C+Git;Desenvolvimento+%7C+Hardware+%7C+Tecnologia" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=800&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Buscando+est%C3%A1gio+na+%C3%A1rea+de+TI;Python+%7C+Java+%7C+SQL+%7C+Git;Desenvolvimento+%7C+Hardware+%7C+Tecnologia" alt="Typing SVG"/>
 
 </div>
 
-<br>
-
 ---
 
-## 👋 Olá, eu sou o Cauê
+# 👋 Olá, eu sou o Cauê
 
 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** pelo **Senac**.
 
 💻 Estou construindo minha base em desenvolvimento de software, banco de dados e tecnologia, estudando principalmente **Python, Java, SQL e desenvolvimento web**.
 
-🛠️ Também tenho bastante interesse por **hardware, sistemas operacionais e infraestrutura de TI**.
+🛠️ Também tenho interesse em **hardware, sistemas operacionais e infraestrutura de TI**.
 
 🚀 Atualmente estou buscando uma **oportunidade de estágio na área de TI**, onde eu possa colocar meus conhecimentos em prática, aprender com projetos reais e continuar evoluindo profissionalmente.
 
@@ -26,7 +25,7 @@
 
 ---
 
-## 🧠 Sobre mim
+# 🧠 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💼 Buscando **estágio na área de TI**
@@ -34,16 +33,16 @@
 - ☕ Estudando **Java**
 - 🌐 Conhecimentos em **HTML5 e CSS**
 - 🗄️ Estudando **Banco de Dados, SQL e MySQL**
+- 🔀 Conhecimentos em **Git e GitHub**
 - 🔧 Interesse e conhecimento em **hardware**
-- 🖥️ Conhecimentos em **Windows, Linux e macOS**
-- 🔀 Utilizando **Git e GitHub**
-- 📚 Em constante aprendizado na área de tecnologia
+- 🖥️ Conhecimentos em **Sistemas Operacionais**
+- 📚 Sempre buscando aprender e colocar os conhecimentos em prática
 
 ---
 
 # 🛠️ Tecnologias
 
-### 💻 Linguagens & Desenvolvimento
+### 💻 Linguagens e Desenvolvimento
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,html,css" />
@@ -55,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Ferramentas
+### 🔧 Ferramentas e Versionamento
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -69,19 +68,25 @@
 
 ---
 
-# 🚀 Projetos
+# 🚀 Projetos e Estudos
 
-Ainda estou construindo meus primeiros projetos públicos durante a graduação.
+Atualmente estou utilizando o GitHub para registrar minha evolução durante a graduação e meus estudos independentes.
 
-No momento, meu GitHub está sendo utilizado principalmente para acompanhar minha evolução nos estudos e, conforme novos projetos forem desenvolvidos, eles serão adicionados aqui.
+### 📚 Algoritmos e Programação
 
-<div align="center">
+Repositório com atividades e exercícios desenvolvidos durante meus estudos de programação, incluindo exercícios em **Java**.
 
-### 🔨 Em breve...
+<a href="https://github.com/teles-hub/Algoritmos-e-Programa-o">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Algoritmos-e-Programa-o&theme=github_dark&hide_border=true&title_color=4DA6FF&icon_color=4DA6FF" />
+</a>
 
-Projetos de desenvolvimento, banco de dados e outros experimentos relacionados à tecnologia.
+### 🏠 Aprendendo em Casa
 
-</div>
+Espaço onde pretendo guardar códigos e exercícios utilizados para estudar **Java e Python**, servindo também como registro da minha evolução.
+
+<a href="https://github.com/teles-hub/Aprendendo-em-casa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Aprendendo-em-casa&theme=github_dark&hide_border=true&title_color=4DA6FF&icon_color=4DA6FF" />
+</a>
 
 ---
 
@@ -89,9 +94,9 @@ Projetos de desenvolvimento, banco de dados e outros experimentos relacionados �
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teles-hub&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=05070D&title_color=4DA6FF&icon_color=4DA6FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=teles-hub&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&title_color=4DA6FF&icon_color=4DA6FF&text_color=C9D1D9&bg_color=05070D" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teles-hub&layout=compact&hide_border=true&langs_count=8&bg_color=05070D&title_color=4DA6FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teles-hub&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=4DA6FF&text_color=C9D1D9&bg_color=05070D" height="180"/>
 
 </div>
 
@@ -101,20 +106,20 @@ Projetos de desenvolvimento, banco de dados e outros experimentos relacionados �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=teles-hub&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teles-hub&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=teles-hub&theme=github-dark-blue&hide_border=true&background=05070D&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF" />
 
 </div>
+
 ---
 
 # 📈 Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=teles-hub&bg_color=05070D&color=C9D1D9&line=4DA6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=teles-hub&bg_color=05070D&color=C9D1D9&line=4DA6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
+
 ---
 
 # 🏆 GitHub Trophies
@@ -124,13 +129,14 @@ Projetos de desenvolvimento, banco de dados e outros experimentos relacionados �
 <img src="https://github-profile-trophy.vercel.app/?username=teles-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
+
 ---
 
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/teles-hub/teles-hub/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/teles-hub/teles-hub/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
@@ -165,3 +171,4 @@ Projetos de desenvolvimento, banco de dados e outros experimentos relacionados �
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:123A63,50:0B1B33,100:05070D&height=120&section=footer" width="100%"/>
 
 </div>
+```
