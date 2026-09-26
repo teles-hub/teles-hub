@@ -1,21 +1,18 @@
-```markdown
-<!-- ========================= -->
-<!--        BANNER             -->
-<!-- ========================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0B1B33,100:123A63&height=220&section=header&text=Cau%C3%AA%20Teles&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%7C%20TI%20%7C%20Hardware&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Interessado+em+est%C3%A1gio+na+%C3%A1rea+de+TI;Python+%7C+Java+%7C+SQL+%7C+Git;Desenvolvimento+%7C+Hardware+%7C+Tecnologia" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Interessado+em+est%C3%A1gio+na+%C3%A1rea+de+TI;Python+%7C+Java+%7C+SQL+%7C+Git;Desenvolvimento+%7C+Hardware+%7C+Tecnologia" alt="Typing SVG"/>
 
 </div>
 
+<br>
+
 ---
 
-# 👋 Olá, eu sou o Cauê
+## 👋 Olá, eu sou o Cauê
 
 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** pelo **Senac**.
 
@@ -23,9 +20,9 @@
 
 🛠️ Também tenho bastante interesse por **hardware, sistemas operacionais e infraestrutura de TI**.
 
-🚀 Meu objetivo no momento é encontrar uma **oportunidade de estágio na área de TI**, onde eu possa colocar meus conhecimentos em prática, aprender com projetos reais e continuar evoluindo profissionalmente.
+🚀 Atualmente estou buscando uma **oportunidade de estágio na área de TI**, onde eu possa colocar meus conhecimentos em prática, aprender com projetos reais e continuar evoluindo profissionalmente.
 
-> Atualmente estou focado em aprender, construir projetos e transformar conhecimento em experiência.
+> Estudando, praticando e construindo minha experiência na área de tecnologia.
 
 ---
 
@@ -38,59 +35,51 @@
 - 🌐 Conhecimentos em **HTML5 e CSS**
 - 🗄️ Estudando **Banco de Dados, SQL e MySQL**
 - 🔧 Interesse e conhecimento em **hardware**
-- 🖥️ Experiência com **Windows, Linux e macOS**
-- 🌱 Sempre buscando aprender novas tecnologias
-- 📚 Atualmente construindo meu portfólio através dos estudos e futuros projetos
+- 🖥️ Conhecimentos em **Windows, Linux e macOS**
+- 🔀 Utilizando **Git e GitHub**
+- 📚 Em constante aprendizado na área de tecnologia
 
 ---
 
 # 🛠️ Tecnologias
 
-### 💻 Linguagens
+### 💻 Linguagens & Desenvolvimento
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
 
 ### 🗄️ Banco de Dados
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Ferramentas & Versionamento
+### 🔧 Ferramentas
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### 🖥️ Sistemas Operacionais
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=windows,linux,apple" />
-
+  <img src="https://skillicons.dev/icons?i=windows,linux,apple" />
 </p>
 
 ---
 
 # 🚀 Projetos
 
-Atualmente estou começando a construir meu portfólio de projetos durante a graduação.
+Ainda estou construindo meus primeiros projetos públicos durante a graduação.
+
+No momento, meu GitHub está sendo utilizado principalmente para acompanhar minha evolução nos estudos e, conforme novos projetos forem desenvolvidos, eles serão adicionados aqui.
 
 <div align="center">
 
-### 🔨 Projetos em construção
+### 🔨 Em breve...
 
-Ainda não tenho projetos públicos no GitHub.
-
-Estou utilizando este espaço para acompanhar minha evolução e, conforme novos projetos forem desenvolvidos, eles serão adicionados aqui.
+Projetos de desenvolvimento, banco de dados e outros experimentos relacionados à tecnologia.
 
 </div>
 
@@ -112,7 +101,7 @@ Estou utilizando este espaço para acompanhar minha evolução e, conforme novos
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=teles-hub&theme=dark&hide_border=true&background=05070D&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF" />
+<img src="https://streak-stats.demolab.com?user=teles-hub&theme=dark&hide_border=true&background=05070D&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF&sideLabels=C9D1D9&dates=C9D1D9" />
 
 </div>
 
@@ -142,39 +131,38 @@ Estou utilizando este espaço para acompanhar minha evolução e, conforme novos
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/teles-hub/teles-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/teles-hub/teles-hub/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
-# 🌐 Onde me encontrar
+# 🌐 Conecte-se comigo
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/cau%C3%AA-teles-b498b4428/">
-<img src="https://img.shields.io/badge/LinkedIn-0B1B33?style=for-the-badge&logo=linkedin&logoColor=4DA6FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-0B1B33?style=for-the-badge&logo=linkedin&logoColor=4DA6FF" />
 </a>
 
 <a href="https://github.com/teles-hub">
-<img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 </div>
 
----
-
 <br>
+
+---
 
 <div align="center">
 
 ### 💙 Em constante evolução.
 
-**Estudando. Construindo. Evoluindo.**
+**Estudando. Praticando. Construindo.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123A63,50:0B1B33,100:05070D&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:123A63,50:0B1B33,100:05070D&height=120&section=footer" width="100%"/>
 
 </div>
-```
