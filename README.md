@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0B1F3A,100:4DA6FF&height=180&section=header&text=Cau%C3%AA%20Teles&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;Apaixonado+por+Tecnologia;Python+%7C+Java+%7C+HTML+%7C+CSS;Hardware+%7C+Software+%7C+Linux" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;Apaixonado+por+Tecnologia;Python+%7C+Java+%7C+HTML+%7C+CSS;Git+%7C+GitHub+%7C+Hardware+%7C+Linux" />
 
 </div>
 
@@ -22,6 +22,8 @@ Tenho conhecimentos em:
 - 🎨 CSS
 - 🗄️ Banco de Dados
 - 🐬 MySQL
+- 🔧 Git
+- 🐙 GitHub
 - 🖥️ Hardware
 - 🪟 Windows
 - 🐧 Linux
@@ -86,7 +88,7 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=teles-hub&bg_color=05070D&color=4DA6FF&line=4DA6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity"/>
+<img src="./profile/activity.svg" width="100%" alt="GitHub Activity"/>
 
 </div>
 
