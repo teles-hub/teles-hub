@@ -16,6 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
+      - name: Create profile directory
+        run: mkdir -p profile
+
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
