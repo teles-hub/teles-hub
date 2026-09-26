@@ -26,16 +26,16 @@
 
 # 🧠 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💼 Buscando **estágio na área de TI**
-- 🐍 Estudando **Python**
-- ☕ Estudando **Java**
-- 🌐 Conhecimentos em **HTML5 e CSS**
-- 🗄️ Estudando **Banco de Dados, SQL e MySQL**
-- 🔀 Conhecimentos em **Git e GitHub**
-- 🔧 Interesse e conhecimento em **hardware**
-- 🖥️ Conhecimentos em **Sistemas Operacionais**
-- 📚 Sempre buscando aprender e colocar os conhecimentos em prática
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+* 💼 Buscando **estágio na área de TI**
+* 🐍 Estudando **Python**
+* ☕ Estudando **Java**
+* 🌐 Conhecimentos em **HTML5 e CSS**
+* 🗄️ Estudando **Banco de Dados, SQL e MySQL**
+* 🔀 Conhecimentos em **Git e GitHub**
+* 🔧 Interesse e conhecimento em **hardware**
+* 🖥️ Conhecimentos em **Windows, Linux e macOS**
+* 📚 Sempre buscando aprender e colocar os conhecimentos em prática
 
 ---
 
@@ -93,9 +93,9 @@ Espaço onde pretendo guardar códigos e exercícios utilizados para estudar **J
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=teles-hub&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&title_color=4DA6FF&icon_color=4DA6FF&text_color=C9D1D9&bg_color=05070D" height="180"/>
+<img src="./stats.svg" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teles-hub&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=4DA6FF&text_color=C9D1D9&bg_color=05070D" height="180"/>
+<img src="./top-langs.svg" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -105,7 +105,7 @@ Espaço onde pretendo guardar códigos e exercícios utilizados para estudar **J
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=teles-hub&theme=github-dark-blue&hide_border=true&background=05070D&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF" />
+<img src="https://streak-stats.demolab.com/?user=teles-hub&theme=github-dark-blue&hide_border=true&background=05070D&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF" alt="GitHub Streak"/>
 
 </div>
 
@@ -115,7 +115,7 @@ Espaço onde pretendo guardar códigos e exercícios utilizados para estudar **J
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=teles-hub&bg_color=05070D&color=C9D1D9&line=4DA6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="./activity.svg" width="100%" alt="GitHub Activity"/>
 
 </div>
 
@@ -125,7 +125,7 @@ Espaço onde pretendo guardar códigos e exercícios utilizados para estudar **J
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=teles-hub&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="./trophies.svg" alt="GitHub Trophies"/>
 
 </div>
 
@@ -170,4 +170,3 @@ Espaço onde pretendo guardar códigos e exercícios utilizados para estudar **J
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:123A63,50:0B1B33,100:05070D&height=120&section=footer" width="100%"/>
 
 </div>
-```
