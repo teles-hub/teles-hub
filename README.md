@@ -43,17 +43,20 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
 
 # 📂 Projetos
 
-<div align="center">
-
-<a href="https://github.com/teles-hub/Algoritmos-e-Programa-o">
-<img src="./profile/projeto-algoritmos.svg" height="180" alt="Algoritmos e Programação"/>
-</a>
-
-<a href="https://github.com/teles-hub/Aprendendo-em-casa">
-<img src="./profile/projeto-aprendendo.svg" height="180" alt="Aprendendo em casa"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/teles-hub/Algoritmos-e-Programa-o">
+        <img src="./profile/projeto-algoritmos.svg" height="180" alt="Algoritmos e Programação"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/teles-hub/Aprendendo-em-casa">
+        <img src="./profile/projeto-aprendendo.svg" height="180" alt="Aprendendo em casa"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
