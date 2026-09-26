@@ -46,11 +46,11 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
 <div align="center">
 
 <a href="https://github.com/teles-hub/Algoritmos-e-Programa-o">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Algoritmos-e-Programa-o&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Algoritmos-e-Programa-o&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/teles-hub/Aprendendo-em-casa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Aprendendo-em-casa&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Aprendendo-em-casa&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
