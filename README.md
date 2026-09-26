@@ -131,7 +131,7 @@ Projetos de desenvolvimento, banco de dados e outros experimentos relacionados Ã
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/teles-hub/teles-hub/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/teles-hub/teles-hub/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
