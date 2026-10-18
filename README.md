@@ -19,12 +19,12 @@ Tenho conhecimentos em:
 - 🐍 Python
 - ☕ Java
 - 📊 Análise de dados com Python
-- 🌐 HTML5
-- 🎨 CSS
+- 🌐 HTML5 (curso do SENAI)
+- 🎨 CSS (curso do SENAI)
 - 🗄️ SQL e Banco de Dados (MySQL e Oracle)
 - 🔧 Git
 - 🐙 GitHub
-- 🖥️ Hardware
+- 🖥️ Hardware (curso de montagem e manutenção de computadores e redes no SENAI)
 - 🪟 Windows
 - 🐧 Linux
 - 🍎 macOS
@@ -75,6 +75,10 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
     </td>
   </tr>
 </table>
+
+- **Analise-de-Dados-com-Python:** análise exploratória das notas e votos de animes da Crunchyroll, com Python, pandas, matplotlib e seaborn.
+- **Algoritmos-e-Programa-o:** exercícios das aulas de Algoritmos e Programação, em Java.
+- **Aprendendo-em-casa:** códigos de estudo em Java e Python.
 
 ---
 
