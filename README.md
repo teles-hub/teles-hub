@@ -56,33 +56,36 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
 
 <table>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center" width="33%">
       <a href="https://github.com/teles-hub/Analise-de-Dados-com-Python">
-        <img src="./profile/projeto-analise.svg" height="180" alt="Analise-de-Dados-com-Python: análise exploratória das notas e votos de animes da Crunchyroll com Python"/>
+        <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-0B1F3A?style=for-the-badge&logo=python&logoColor=4DA6FF" alt="Análise de Dados com Python"/>
       </a>
+      <br><br>
+      <sub>Análise exploratória de notas e votos de animes da Crunchyroll<br>Python • pandas • matplotlib • seaborn</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/teles-hub/Proposta-Pi">
         <img src="https://img.shields.io/badge/Proposta--Pi-0B1F3A?style=for-the-badge&logo=github&logoColor=4DA6FF" alt="Proposta-Pi"/>
       </a>
       <br><br>
       <sub>Projeto acadêmico do curso de ADS (Senac)</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/teles-hub/SCC-Fabric-Portfolio">
-        <img src="https://img.shields.io/badge/SCC%20Fabric-0B1F3A?style=for-the-badge&logo=github&logoColor=4DA6FF" alt="SCC Fabric"/>
+        <img src="https://img.shields.io/badge/SCC%20Fabric-0B1F3A?style=for-the-badge&logo=openjdk&logoColor=4DA6FF" alt="SCC Fabric"/>
       </a>
       <br><br>
-      <sub>Port não oficial do mod Super Cool Calculator (NeoForge para Fabric) • Java 21 • Em andamento</sub>
+      <sub>Port não oficial do mod Super Cool Calculator (NeoForge para Fabric)<br>Java 21 • Em andamento</sub>
     </td>
   </tr>
 </table>
 
 - **[Analise-de-Dados-com-Python](https://github.com/teles-hub/Analise-de-Dados-com-Python):** análise exploratória das notas e votos de animes da Crunchyroll, com Python, pandas, matplotlib e seaborn.
-- **[Proposta-Pi](https://github.com/teles-hub/Proposta-Pi):** projeto acadêmico do curso de ADS (Senac).
+- **[Proposta-Pi](https://github.com/teles-hub/Proposta-Pi):** projeto acadêmico do curso de ADS (Senac). <!-- TODO: trocar por uma frase real sobre o que é a proposta -->
 - **[SCC-Fabric-Portfolio](https://github.com/teles-hub/SCC-Fabric-Portfolio):** port não oficial, feito por fã, do mod *Super Cool Calculator* (criado por XxRonaldxX) de NeoForge para Fabric, em Java 21, no Minecraft 1.21.1. Em desenvolvimento; as limitações estão documentadas no repositório.
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
