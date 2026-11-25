@@ -58,7 +58,7 @@ Projetos acadêmicos e independentes: escopo, tecnologias e ressalvas em cada ca
 Port não oficial do mod *Super Cool Calculator* para Minecraft 1.21.1/Fabric, em Java 21. O port foca nos sistemas não combatentes do original: armazenamento, cabos e redes, terminais e análise de receitas.
 
 - **Stack:** Java 21 · Fabric · Gradle · perfil de compatibilidade opcional com Cobblemon 1.8.4 / Cobbleverse 1.8.0 (Campfire Pot).
-- **Situação:** em desenvolvimento; build verificado no CI e 13 assinaturas da API binária do Cobblemon 1.8.4 verificadas automaticamente no `check` do Gradle, **sem validação em jogo**.
+- **Situação:** em desenvolvimento; build verificado no CI e 14 assinaturas da API binária do Cobblemon 1.8.4 verificadas automaticamente no `check` do Gradle, **sem validação em jogo**.
 - **Créditos:** mod original de [XxRonaldxX](https://github.com/xXxRonaldxXx/SuperCoolCalculator) ([MIT](https://github.com/teles-hub/SCC-Fabric-Portfolio/blob/main/LICENSE)); port independente por **Cauê Teles**.
 
 ---
