@@ -54,25 +54,25 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
 
 *Projetos de estudo e prática, da análise de dados com Python ao desenvolvimento em Java.*
 
-<div align="center">
-
-<a href="https://github.com/teles-hub/Analise-de-Dados-com-Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Analise-de-Dados-com-Python&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" alt="Analise-de-Dados-com-Python: análise exploratória das notas e votos de animes da Crunchyroll com Python"/>
-</a>
-
-<br>
-
-<a href="https://github.com/teles-hub/Proposta-Pi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Proposta-Pi&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" alt="Proposta-Pi: projeto acadêmico do curso de ADS"/>
-</a>
-
-<br>
-
-<a href="https://github.com/teles-hub/SCC-Fabric-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=SCC-Fabric-Portfolio&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" alt="SCC-Fabric-Portfolio: port não oficial do mod Super Cool Calculator de NeoForge para Fabric"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/teles-hub/Analise-de-Dados-com-Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Analise-de-Dados-com-Python&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" width="100%" alt="Analise-de-Dados-com-Python: análise exploratória das notas e votos de animes da Crunchyroll com Python"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/teles-hub/Proposta-Pi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Proposta-Pi&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" width="100%" alt="Proposta-Pi: projeto acadêmico do curso de ADS"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/teles-hub/SCC-Fabric-Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=SCC-Fabric-Portfolio&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" width="100%" alt="SCC-Fabric-Portfolio: port não oficial do mod Super Cool Calculator de NeoForge para Fabric"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 - **[Analise-de-Dados-com-Python](https://github.com/teles-hub/Analise-de-Dados-com-Python):** análise exploratória das notas e votos de animes da Crunchyroll, com Python, pandas, matplotlib e seaborn.
 - **[Proposta-Pi](https://github.com/teles-hub/Proposta-Pi):** projeto acadêmico do curso de ADS (Senac). <!-- TODO: trocar por uma frase real sobre o que é a proposta -->
