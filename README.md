@@ -52,7 +52,7 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
 
 # 📂 Projetos
 
-*Projetos de estudo e prática, da lógica de programação em Java à análise de dados com Python.*
+*Projetos de estudo e prática, da análise de dados com Python ao desenvolvimento em Java.*
 
 <table>
   <tr>
@@ -63,22 +63,26 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/teles-hub/Algoritmos-e-Programa-o">
-        <img src="./profile/projeto-algoritmos.svg" height="180" alt="Algoritmos e Programação"/>
+    <td align="center" width="50%">
+      <a href="https://github.com/teles-hub/Proposta-Pi">
+        <img src="https://img.shields.io/badge/Proposta--Pi-0B1F3A?style=for-the-badge&logo=github&logoColor=4DA6FF" alt="Proposta-Pi"/>
       </a>
+      <br><br>
+      <sub>Projeto acadêmico do curso de ADS (Senac)</sub>
     </td>
-    <td>
-      <a href="https://github.com/teles-hub/Aprendendo-em-casa">
-        <img src="./profile/projeto-aprendendo.svg" height="180" alt="Aprendendo em casa"/>
+    <td align="center" width="50%">
+      <a href="https://github.com/teles-hub/SCC-Fabric-Portfolio">
+        <img src="https://img.shields.io/badge/SCC%20Fabric-0B1F3A?style=for-the-badge&logo=github&logoColor=4DA6FF" alt="SCC Fabric"/>
       </a>
+      <br><br>
+      <sub>Port não oficial do mod Super Cool Calculator (NeoForge para Fabric) • Java 21 • Em andamento</sub>
     </td>
   </tr>
 </table>
 
-- **Analise-de-Dados-com-Python:** análise exploratória das notas e votos de animes da Crunchyroll, com Python, pandas, matplotlib e seaborn.
-- **Algoritmos-e-Programa-o:** exercícios das aulas de Algoritmos e Programação, em Java.
-- **Aprendendo-em-casa:** códigos de estudo em Java e Python.
+- **[Analise-de-Dados-com-Python](https://github.com/teles-hub/Analise-de-Dados-com-Python):** análise exploratória das notas e votos de animes da Crunchyroll, com Python, pandas, matplotlib e seaborn.
+- **[Proposta-Pi](https://github.com/teles-hub/Proposta-Pi):** projeto acadêmico do curso de ADS (Senac). <!-- TODO: trocar por uma frase real sobre o que é a proposta -->
+- **[SCC-Fabric-Portfolio](https://github.com/teles-hub/SCC-Fabric-Portfolio):** port não oficial, feito por fã, do mod *Super Cool Calculator* (criado por XxRonaldxX) de NeoForge para Fabric, em Java 21, no Minecraft 1.21.1. Em desenvolvimento; as limitações estão documentadas no repositório.
 
 ---
 
