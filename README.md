@@ -2,154 +2,79 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0B1F3A,100:4DA6FF&height=180&section=header&text=Cau%C3%AA%20Teles&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Banner com o nome Cauê Teles"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+ADS;Apaixonado+por+Tecnologia;Python+%7C+Java+%7C+SQL+%7C+HTML+%7C+CSS;An%C3%A1lise+de+Dados+com+Python;Git+%7C+GitHub+%7C+Hardware+%7C+Linux" alt="Texto animado: Desenvolvedor em formação, Estudante de ADS, Python, Java, SQL, análise de dados, Git, GitHub, Hardware e Linux" />
-
 </div>
 
----
+# Cauê Teles
 
-# 👨‍💻 Sobre mim
+Estudante de **Análise e Desenvolvimento de Sistemas** no Senac São Paulo, em busca da **primeira oportunidade profissional em TI**. Aceito vagas de estágio em desenvolvimento de software, análise de dados, suporte técnico, infraestrutura e operações.
 
-Olá! Meu nome é **Cauê Teles**.
+Sem experiência profissional registrada. Os projetos abaixo são trabalhos acadêmicos, de estudo e independentes, com escopo e limitações descritos em cada repositório.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** pelo **Senac**, apaixonado por tecnologia e desenvolvimento de software.
-
-Tenho conhecimentos em:
-
-- 🐍 Python
-- ☕ Java
-- 📊 Análise de dados com Python
-- 🌐 HTML5 (curso do SENAI)
-- 🎨 CSS (curso do SENAI)
-- 🗄️ SQL e Banco de Dados (MySQL e Oracle)
-- 🔧 Git
-- 🐙 GitHub
-- 🖥️ Hardware (curso de montagem e manutenção de computadores e redes no SENAI)
-- 🪟 Windows
-- 🐧 Linux
-- 🍎 macOS
-
-Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas habilidades em programação, dados e tecnologia.
+**Contato:** [GitHub](https://github.com/teles-hub) · [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-teles-b498b4428/)
 
 ---
 
-# 🚀 Tecnologias
+## Formação
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,github,linux,windows,apple,vscode" alt="Ícones das tecnologias: Python, Java, HTML, CSS, MySQL, Git, GitHub, Linux, Windows, macOS e VS Code" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-05070D?style=for-the-badge" alt="SQL"/>
-<img src="https://img.shields.io/badge/Oracle_Database-05070D?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle Database"/>
-
-<sub>🗄️ SQL é a linguagem de consulta; MySQL e Oracle Database são os sistemas de banco de dados que estudo.</sub>
-
-</div>
+- Análise e Desenvolvimento de Sistemas — Senac São Paulo (em andamento).
+- Formação complementar em Operador de Computador e Front-End.
+- Formação complementar em Assistente de Manutenção de Computadores e Redes.
 
 ---
 
-# 📂 Projetos
+## Áreas de interesse
 
-*Projetos de estudo e prática, da análise de dados com Python ao desenvolvimento em Java.*
+- Desenvolvimento de software (Java, Python e web).
+- Análise de dados e banco de dados/SQL.
+- Sistemas operacionais, hardware, redes e suporte técnico.
+
+## Tecnologias
+
+**Praticadas em projetos publicados**
+
+- **Java:** aplicação de console do Projeto Hermes e port SCC Fabric (Java 21, Fabric).
+- **Python:** notebook de análise exploratória com pandas, matplotlib e seaborn; exercícios de estudo.
+- **SQL:** estudos de consulta com MySQL e Oracle Database.
+- **Git e GitHub:** histórico público, commits e publicação dos repositórios.
+- **Gradle:** build do projeto SCC Fabric.
+
+**Em aprendizado / formação complementar**
+
+- **HTML e CSS:** formação complementar em Front-End. A interface web do Projeto Hermes foi desenvolvida por outro integrante.
+- **JavaScript:** em estudo; presente apenas como parte da demonstração web do Projeto Hermes.
+- **Redes e manutenção de computadores:** formação complementar, sem experiência profissional.
+
+---
+
+## Projetos em destaque
 
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://github.com/teles-hub/SCC-Fabric-Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=SCC-Fabric-Portfolio&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" width="100%" alt="SCC-Fabric-Portfolio: port não oficial do mod Super Cool Calculator para Fabric"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/teles-hub/Analise-de-Dados-com-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Analise-de-Dados-com-Python&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" width="100%" alt="Analise-de-Dados-com-Python: análise exploratória das notas e votos de animes da Crunchyroll com Python"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Analise-de-Dados-com-Python&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" width="100%" alt="Analise-de-Dados-com-Python: análise exploratória com pandas"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/teles-hub/Proposta-Pi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Proposta-Pi&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" width="100%" alt="Proposta-Pi: projeto acadêmico do curso de ADS"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/teles-hub/SCC-Fabric-Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=SCC-Fabric-Portfolio&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" width="100%" alt="SCC-Fabric-Portfolio: port não oficial do mod Super Cool Calculator de NeoForge para Fabric"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=teles-hub&repo=Proposta-Pi&bg_color=0B1F3A&title_color=4DA6FF&text_color=C9D7EA&icon_color=4DA6FF&border_color=4DA6FF&border_radius=12" width="100%" alt="Proposta-Pi: Projeto Integrador Hermes, loja de tênis em Java"/>
       </a>
     </td>
   </tr>
 </table>
 
-- **[Analise-de-Dados-com-Python](https://github.com/teles-hub/Analise-de-Dados-com-Python):** análise exploratória das notas e votos de animes da Crunchyroll, com Python, pandas, matplotlib e seaborn.
-- **[Proposta-Pi](https://github.com/teles-hub/Proposta-Pi):** projeto acadêmico do curso de ADS (Senac). <!-- TODO: trocar por uma frase real sobre o que é a proposta -->
-- **[SCC-Fabric-Portfolio](https://github.com/teles-hub/SCC-Fabric-Portfolio):** port não oficial, feito por fã, do mod *Super Cool Calculator* (criado por XxRonaldxX) de NeoForge para Fabric, em Java 21, no Minecraft 1.21.1. Em desenvolvimento; as limitações estão documentadas no repositório.
+1. **[SCC Fabric](https://github.com/teles-hub/SCC-Fabric-Portfolio)** — port não oficial, em Java 21, do mod *Super Cool Calculator* para Minecraft 1.21.1/Fabric. O build limpo foi executado com sucesso; não houve validação em jogo. Projeto original criado por XxRonaldxX, sob licença MIT.
+2. **[Análise de Dados com Python](https://github.com/teles-hub/Analise-de-Dados-com-Python)** — notebook de análise exploratória das notas e votos de animes da Crunchyroll, com decisões de limpeza e limitações documentadas.
+3. **[Projeto Hermes](https://github.com/teles-hub/Proposta-Pi)** — Projeto Integrador de ADS: loja de tênis em Java com controle de estoque e cálculo de tributos, mais uma demonstração web de interface. Contribuição individual: aplicação Java; os demais créditos estão no README do repositório.
 
----
+## Outros repositórios
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
-
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=teles-hub&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="./profile/activity.svg" width="100%" alt="GitHub Activity"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="./profile/trophies.svg" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/teles-hub/teles-hub/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# 🌐 Contato
-
-<div align="center">
-
-<a href="https://github.com/teles-hub">
-<img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/cau%C3%AA-teles-b498b4428/">
-<img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DA6FF,50:0B1F3A,100:05070D&height=120&section=footer" alt=""/>
-
-</div>
+- [Algoritmos e Programação](https://github.com/teles-hub/Algoritmos-e-Programa-o) — exercícios de aula em Java.
+- [Aprendendo em casa](https://github.com/teles-hub/Aprendendo-em-casa) — estudos independentes de Java e Python.
+- [Tic-em-Trilhas](https://github.com/teles-hub/Tic-em-Trilhas) — trilhas de exercícios em Java e Python.
+- [dio-lab-open-source](https://github.com/teles-hub/dio-lab-open-source) — fork de laboratório da DIO; não é projeto autoral.
