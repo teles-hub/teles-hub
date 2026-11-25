@@ -81,11 +81,8 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
 </table>
 
 - **[Analise-de-Dados-com-Python](https://github.com/teles-hub/Analise-de-Dados-com-Python):** análise exploratória das notas e votos de animes da Crunchyroll, com Python, pandas, matplotlib e seaborn.
-- **[Proposta-Pi](https://github.com/teles-hub/Proposta-Pi):** projeto acadêmico do curso de ADS (Senac). <!-- TODO: trocar por uma frase real sobre o que é a proposta -->
+- **[Proposta-Pi](https://github.com/teles-hub/Proposta-Pi):** projeto acadêmico do curso de ADS (Senac).
 - **[SCC-Fabric-Portfolio](https://github.com/teles-hub/SCC-Fabric-Portfolio):** port não oficial, feito por fã, do mod *Super Cool Calculator* (criado por XxRonaldxX) de NeoForge para Fabric, em Java 21, no Minecraft 1.21.1. Em desenvolvimento; as limitações estão documentadas no repositório.
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
