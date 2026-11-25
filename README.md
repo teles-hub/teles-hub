@@ -125,6 +125,7 @@ Cards do GitHub Readme Stats, com dados dinâmicos. Se não carregarem, a ativid
 
 [![GitHub: teles-hub](https://img.shields.io/badge/GitHub-teles--hub-2878C8?style=for-the-badge&logo=github&logoColor=E6EDF7&labelColor=05070D)](https://github.com/teles-hub)
 [![LinkedIn: Cauê Teles](https://img.shields.io/badge/LinkedIn-Cau%C3%AA%20Teles-4DA6FF?style=for-the-badge&logo=linkedin&logoColor=05070D&labelColor=05070D)](https://www.linkedin.com/in/cau%C3%AA-teles-b498b4428/)
+[![Email: teles.cauers@gmail.com](https://img.shields.io/badge/Email-teles.cauers%40gmail.com-4DA6FF?style=for-the-badge&logo=gmail&logoColor=E6EDF7&labelColor=05070D)](mailto:teles.cauers@gmail.com)
 
 </div>
 
